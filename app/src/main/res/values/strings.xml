@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bookshelf</string>
+    <string name="loading">Loading..</string>
+    <string name="loading_failed">Loading Failed :/</string>
+    <string name="unknown_title">"Unknown Title"</string>
+    <string name="wait_screen_text">""Too many requests! You should wait.""</string>
+    <string name="no_reviews">No review available for this book :/</string>
+    <string name="mainTitle">New York Times Best Sellers</string>
+    <string name="back_button">Back button</string>
+    <string name="no_information">No information available</string>
+    <string name="retry">Retry</string>
+</resources>
